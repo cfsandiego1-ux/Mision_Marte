@@ -1,3 +1,4 @@
 Inicimos nuestra Mision a Marte, con git 
 "Se necesita combustible extra para el viaje"
-"Se integra protocolo de navegación autómatica Alfa-1
+"Se integra protocolo de navegación autómatica Alfa-1"
+"Se establece la ruta final de aterrizaje en el cráter Gale."
